@@ -41,6 +41,10 @@ Status Code - 200
 
 13
 
+Unit Tests - 
+
+The unit test coverage is 100% (Except for the main application class, where there is no logic for endpoint)
+
 TODO - 
 1) Extensive Exception Handling
 
